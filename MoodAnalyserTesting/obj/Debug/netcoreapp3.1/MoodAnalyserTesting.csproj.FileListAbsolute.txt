@@ -1,0 +1,14 @@
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\bin\Debug\netcoreapp3.1\MoodAnalyserTesting.exe
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\bin\Debug\netcoreapp3.1\MoodAnalyserTesting.deps.json
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\bin\Debug\netcoreapp3.1\MoodAnalyserTesting.runtimeconfig.json
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\bin\Debug\netcoreapp3.1\MoodAnalyserTesting.runtimeconfig.dev.json
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\bin\Debug\netcoreapp3.1\MoodAnalyserTesting.dll
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\bin\Debug\netcoreapp3.1\MoodAnalyserTesting.pdb
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\obj\Debug\netcoreapp3.1\MoodAnalyserTesting.csproj.AssemblyReference.cache
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\obj\Debug\netcoreapp3.1\MoodAnalyserTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\obj\Debug\netcoreapp3.1\MoodAnalyserTesting.AssemblyInfoInputs.cache
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\obj\Debug\netcoreapp3.1\MoodAnalyserTesting.AssemblyInfo.cs
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\obj\Debug\netcoreapp3.1\MoodAnalyserTesting.csproj.CoreCompileInputs.cache
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\obj\Debug\netcoreapp3.1\MoodAnalyserTesting.dll
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\obj\Debug\netcoreapp3.1\MoodAnalyserTesting.pdb
+C:\Users\Teju Reddy\source\repos\MoodAnalyserTesting\MoodAnalyserTesting\obj\Debug\netcoreapp3.1\MoodAnalyserTesting.genruntimeconfig.cache
